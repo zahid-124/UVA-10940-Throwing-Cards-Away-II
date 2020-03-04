@@ -1,1 +1,1 @@
-# UVA-10940-Throwing-Cards-Away-II
+UVA-10940 Solution Complexty O(n)
